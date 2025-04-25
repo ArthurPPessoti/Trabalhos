@@ -1,6 +1,6 @@
 /*
-Desafio: Agenda Simples
-Descrição: Permita cadastrar e listar nomes e telefones (usar `ArrayList` ou estrutura parecida)
+Desafio: Agenda Simples.
+Descrição: Permita cadastrar e listar nomes e telefones (usar `ArrayList` ou estrutura parecida).
 */
 
 #include <stdio.h>
