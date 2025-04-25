@@ -23,6 +23,7 @@ Este é um repositório pessoal, criado para meu uso e aprendizado contínuo. To
 Os desafios são divididos por nível de dificuldade, indo do mais simples ao mais complexo.
 
 Nível	Descrição
+
 🟢 Nível 1	Fundamentos: entrada/saída, variáveis, operadores básicos
 
 🟢 Nível 2	Condicionais simples, lógica booleana, comparações
@@ -54,4 +55,4 @@ Incluído neste repositório:
 + Um sorteador de linguagens para definir com qual linguagem você vai resolver aquele desafio no dia.
 
 Essas ferramentas ajudam a manter a prática divertida e imprevisível, evitando a rotina automática.
------
+
