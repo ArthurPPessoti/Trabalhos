@@ -7,9 +7,13 @@ Este é um repositório pessoal, criado para meu uso e aprendizado contínuo. To
 🎯 Objetivos 🎯
 
 📌 Criar uma rotina consistente de prática em programação.
+
 🧠 Aprimorar o raciocínio lógico e a resolução de problemas.
+
 💡 Explorar diferentes tipos de desafios, dos básicos aos complexos.
+
 🔁 Treinar múltiplas vezes os mesmos problemas, com sorteio aleatório de desafios e linguagens.
+
 🎓 Desenvolver preparo para entrevistas técnicas, testes de lógica, maratonas e concursos.
 
 📚 Organização dos Desafios 📚
