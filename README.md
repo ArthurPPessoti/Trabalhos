@@ -3,7 +3,7 @@
 Este repositório reúne desafios de programação organizados por nível de dificuldade, criados para ajudar no desenvolvimento de raciocínio lógico, criatividade algorítmica e domínio de diferentes estruturas da programação. O projeto também inclui um nível extra com desafios aleatórios focados em temas específicos como manipulação de strings, APIs, matemática, e muito mais.
 
 Este é um repositório pessoal, criado para meu uso e aprendizado contínuo. Todos são bem-vindos para acompanhar, estudar e se inspirar com os desafios e soluções.
-
+-
 
 
 🎯 Objetivos 🎯
@@ -20,7 +20,7 @@ Este é um repositório pessoal, criado para meu uso e aprendizado contínuo. To
 
 
 
-
+-
 📚 Organização dos Desafios 📚
 
 Os desafios são divididos por nível de dificuldade, indo do mais simples ao mais complexo.
@@ -49,11 +49,12 @@ Nível	Descrição
 🧩 Nível Extra	Desafios específicos sobre temas variados (ex: APIs, datas, conversores, etc.)
 
 
-
+-
 🎲 Sorteador de Desafios e Linguagens 🎲
 
 Incluído neste repositório:
-* Um sorteador de desafios que escolhe aleatoriamente um desafio de qualquer nível.
- * Um sorteador de linguagens para definir com qual linguagem você vai resolver aquele desafio no dia.
++ Um sorteador de desafios que escolhe aleatoriamente um desafio de qualquer nível.
+
++ Um sorteador de linguagens para definir com qual linguagem você vai resolver aquele desafio no dia.
 
 Essas ferramentas ajudam a manter a prática divertida e imprevisível, evitando a rotina automática.
