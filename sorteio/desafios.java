@@ -115,6 +115,12 @@ public class desafios {
 
         items.put("Cadastro de Usuarios", "Crie um sistema de cadastro de usuários com nome, email e senha. Utilize um banco de dados simples (pode ser SQLite ou Excel) para armazenar os dados.");
 
+        items.put("Método de Gauss", "Implemente um programa que receba uma matriz aumentada de um sistema linear e resolva esse sistema utilizando o método de eliminação de Gauss. O sistema sempre terá solução única.");
+        
+        items.put("Método de Gauss-Jordan", "Crie um programa que aplique o método de Gauss-Jordan em uma matriz aumentada de um sistema linear para transformá-la em sua forma escalonada reduzida e exibir a solução do sistema.");
+
+        items.put("Mínimos Quadrados", "Escreva um programa que receba uma sequência de pontos (x, y) e calcule a equação da reta dos mínimos quadrados que melhor se ajusta aos dados, no formato y = ax + b.");
+
         // Convert keys to ArrayList for random selection
         ArrayList<String> keyList = new ArrayList<>(items.keySet());
         
