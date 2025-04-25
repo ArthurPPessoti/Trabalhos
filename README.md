@@ -4,6 +4,8 @@ Este repositório reúne desafios de programação organizados por nível de dif
 
 Este é um repositório pessoal, criado para meu uso e aprendizado contínuo. Todos são bem-vindos para acompanhar, estudar e se inspirar com os desafios e soluções.
 
+
+
 🎯 Objetivos 🎯
 
 📌 Criar uma rotina consistente de prática em programação.
@@ -15,6 +17,9 @@ Este é um repositório pessoal, criado para meu uso e aprendizado contínuo. To
 🔁 Treinar múltiplas vezes os mesmos problemas, com sorteio aleatório de desafios e linguagens.
 
 🎓 Desenvolver preparo para entrevistas técnicas, testes de lógica, maratonas e concursos.
+
+
+
 
 📚 Organização dos Desafios 📚
 
@@ -42,6 +47,8 @@ Nível	Descrição
 🔴 Nível 10	Desafios abertos e problemas com múltiplas etapas e raciocínio avançado
 
 🧩 Nível Extra	Desafios específicos sobre temas variados (ex: APIs, datas, conversores, etc.)
+
+
 
 🎲 Sorteador de Desafios e Linguagens 🎲
 
