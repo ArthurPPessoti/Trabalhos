@@ -18,15 +18,25 @@ Os desafios são divididos por nível de dificuldade, indo do mais simples ao ma
 
 Nível	Descrição
 🟢 Nível 1	Fundamentos: entrada/saída, variáveis, operadores básicos
+
 🟢 Nível 2	Condicionais simples, lógica booleana, comparações
+
 🟡 Nível 3	Laços de repetição, contadores e acumuladores
+
 🟡 Nível 4	Funções, escopos e modularização
+
 🟡 Nível 5	Listas, vetores, iteração sobre coleções
+
 🟠 Nível 6	Matrizes e lógica bidimensional
+
 🟠 Nível 7	Manipulação de strings, expressões
+
 🔴 Nível 8	Algoritmos clássicos (busca linear, ordenações simples)
+
 🔴 Nível 9	Recursividade, problemas matemáticos elaborados
+
 🔴 Nível 10	Desafios abertos e problemas com múltiplas etapas e raciocínio avançado
+
 🧩 Nível Extra	Desafios específicos sobre temas variados (ex: APIs, datas, conversores, etc.)
 
 🎲 Sorteador de Desafios e Linguagens 🎲
